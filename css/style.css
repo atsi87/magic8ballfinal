@@ -1,0 +1,37 @@
+
+#answer {
+  background-color: aqua;
+color: #222;
+  text-transform: uppercase;
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  width: 35%;
+  margin-right: 400px;
+  /* font-size: 80%; */
+}
+
+#questionButton {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  font-size: 1.875em;
+  color: #f8f8f8;
+  background-color: hsl(253, 63%, 31%);
+  border-radius: 5px;
+  border: none;
+  padding: .5em 1em;
+  width: 80%;
+  max-width: 15em;
+  margin-top: 30em;
+  text-align: center;
+  margin-left: 450px;
+  margin-bottom: 500px;
+  padding-bottom: 40px;
+}
+#word{
+text-align: center;
+font-size : 40px;
+padding-top: 40px;
+
+}
