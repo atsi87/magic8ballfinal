@@ -26,7 +26,7 @@ color: #222;
   margin-top: 20em;
   text-align: center;
   margin-left: 550px;
-  margin-bottom: 500px;
+  margin-bottom: 400px;
   padding-bottom: 40px;
 }
 #word{
@@ -34,31 +34,11 @@ color: #222;
 text-align: center;
 font-size : 40px;
 padding-top: 40px;
-padding-left: 200px;
+padding-left: 170px;
 }
-/* property of ball shaking */
-.shaking {
-    animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both;
-    transform: translate3d(0, 0, 0);
-    backface-visibility: hidden;
-    perspective: 1000px;
-}
-@keyframes shake {
-    10%,
-    90% {
-        transform: translate3d(-1px, 0, 0);
-    }
-    20%,
-    80% {
-        transform: translate3d(2px, 0, 0);
-    }
-    30%,
-    50%,
-    70% {
-        transform: translate3d(-4px, 0, 0);
-    }
-    40%,
-    60% {
-        transform: translate3d(4px, 0, 0);
-    }
+.foot {
+text-align: center;
+font-size : 40px;
+padding: bottom 50px;
+padding-bottom: 800px;
 }
